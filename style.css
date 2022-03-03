@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(153, 160, 165);
+  font-family: "lato", sans-serif;
+  font-weight: bold;
+}
+.btn-primary {
+  background-color: rgb(4, 4, 65);
+}
+
+.card {
+  height: 100%;
+  background-color: rgb(74, 74, 88);
+  color: white;
+}
